@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/NpcHitoshi/NodeJS/issues"
   },
-  "homepage": "https://github.com/NpcHitoshi/NodeJS#readme"
+  "homepage": "https://github.com/NpcHitoshi/NodeJS#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.0.7"
+  }
 }
